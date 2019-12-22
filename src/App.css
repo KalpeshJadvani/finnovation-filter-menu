@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  min-width: 420px;
+}
+.box {
+  width: 100%;
+}
+
+.items-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.container-table {
+  width: inherit;
+  display: table;
+}
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
